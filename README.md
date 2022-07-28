@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Moachuba-Tomato
 - 👀 I’m interested in ...web development and machine learning 
-- 🌱 I’m currently learning ... c++ and javascript 
+- 🌱 I’m currently learning ... php and mySql
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... jeremycarryme12@gmail.com
 
